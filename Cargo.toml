@@ -1,0 +1,8 @@
+[workspace]
+members = ["projects/*"]
+default-members = [
+    "projects/unlock-music",
+]
+
+[profile.release]
+lto = true
