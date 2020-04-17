@@ -10,6 +10,8 @@ license = "MPL-2.0"
 edition = "2018"
 
 [dependencies]
+hex-literal = "0.3"
+itertools = "0.9"
 
 [dev-dependencies]
 
